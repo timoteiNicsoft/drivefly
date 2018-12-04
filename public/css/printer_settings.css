@@ -1,0 +1,99 @@
+.bg_grey{
+	background-color: grey;
+}
+.box_papper{
+  background-color: #FFF;
+  position: relative;
+  height: 210mm;
+  margin: 50px auto 20px;
+  width: 297mm;
+}
+.box_papper > div{
+	position: absolute;
+	cursor: pointer;
+}
+.box_papper > div.selected_item{
+  color: rgb(228, 40, 40);
+}
+.lg {
+  font-size: 15mm;
+}
+.md {
+  font-size: 5mm;
+}
+.commands_position{
+  width: 70mm;
+  padding: 20px;
+  background-color: rgba(187, 181, 172, 0.9);
+  position: absolute;
+  z-index: 9;
+	top: 20mm;
+	left: 20mm;
+}
+#mydivheader {
+  padding: 5px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+  margin-top: -20px;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.arrow_direction{
+  border: 0;
+  background: #333131;
+  color: #FFF;
+  padding: 3px 12px;
+}
+.arrow_top{
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.arrow_left{
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.arrow_right{
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.arrow_direction:focus{
+	outline: none;
+}
+.arrow_direction:hover{
+	cursor: pointer;
+	background-color: #696666;
+	outline: none;
+}
+.save_printer_settings{
+	border: 0;
+	background-color: #17a2b8;
+	color: #FFF;
+	border-radius: 3px;
+	padding: 3px 10px;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.print_test{
+	border: 0;
+	background-color: #6c757d;
+	color: #FFF;
+	border-radius: 3px;
+	font-size: 14px;
+	padding: 3px 10px;
+}
+.save_printer_settings:hover,
+.print_test:hover{
+	cursor: pointer;
+}
+.bar_code_h{
+	height: 50px;
+}
+.big_type_style{
+	text-align:center;
+	width:94mm;
+	font-size: 2em ;
+}

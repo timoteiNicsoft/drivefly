@@ -1,0 +1,190 @@
+{
+  "buffer": "",
+  "errors": "",
+  "toasts": [],
+  "result": [
+    {
+      "site_id": "ICPR",
+      "site_name": "I Can Park & Ride",
+      "site_products": [
+        {
+          "product_id": "11",
+          "product_name": "I Can Park & Ride Flex",
+          "product_code": "F",
+          "product_short_desc": "Off airport parking <br>Free transfer to and from airport ",
+          "product_type": "PR",
+          "product_airport": "BHX",
+          "parking_id": "4",
+          "pc_id": "2",
+          "product_img": "",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": " I Can Park and Ride Limited, \r\nLand Opposite Rovex Business Park, Hay Hall Road, Birmingham. B11 2AU ",
+          "product_info": ""
+        },
+        {
+          "product_id": "12",
+          "product_name": "I Can Park & Ride Non - Flex",
+          "product_code": "NF",
+          "product_short_desc": "Off airport parking <br>Free transfer to and from airport <br>Cannot be Amended or Cancelled",
+          "product_type": "PR",
+          "product_airport": "BHX",
+          "parking_id": "4",
+          "pc_id": "2",
+          "product_img": "",
+          "product_is_amendable": "0",
+          "product_is_refundable": "0",
+          "product_directions": " I Can Park and Ride Limited, \r\nLand Opposite Rovex Business Park, Hay Hall Road, Birmingham. B11 2AU ",
+          "product_info": ""
+        }
+      ]
+    },
+    {
+      "site_id": "DF",
+      "site_name": "DriveFly",
+      "site_products": [
+        {
+          "product_id": "1",
+          "product_name": "Drivefly",
+          "product_code": "D",
+          "product_short_desc": "<p><span style=\"font-size: 14px;float: none;\">Drivefly Meet &amp; Greet offers a smooth and speedy parking experience for all passengers leaving from Heathrow<span id=\"selectionBoundary_1532366405820_02262925275462746\" class=\"rangySelectionBoundary\">&#65279;</span>.</span><br style=\"font-size: 14px;\"/><span style=\"font-size: 14px;float: none;\">The drive-in and drop-off service is perfect if you're short on time, dragging heavy bags or simply want to swerve the stress of airport transfers.</span>",
+          "product_type": "MG",
+          "product_airport": "LHR",
+          "parking_id": "1",
+          "pc_id": "1",
+          "product_img": "https://api.drivefly.org/assets/13.png",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "<div><h4>Telephone your driver: 0203 667 2616 or 07545 004 379</h4><p>If you do NOT receive a call, please call us on the above number when you are 15 - 20 minutes away from the terminal so we can arrange a driver for you.</p></div><h3>Terminal 1 - N/A</h3><h3>Terminal 2- sat-nav postcode: (TW6 1EW)</h3><h4>Terminal 2 Departure Instructions</h4><ul><li>From the M25 exit at Junction 14, follow the signs for Terminals 1, 2 &amp; 3 all the way round following onto the Western Perimeter Road.</li><li>Go through the main tunnel to the Central Terminal Area for Terminals 1, 2 &amp; 3.</li><li>Exiting the tunnel, keep right, passing the Central Bus Station, joining the final approaches to Terminal 2 on Cosmopolitan Way.</li><li>Again, keep right as the road to Terminal 2 will move away from building, before turning back as the road ramps up to Terminal 2 Departures &amp; the Short Stay 2 car park on Constellation Way.</li><li>On the rising ramp, continue to keep right as the ramp will lead directly into the &#34;Short stay car park&#34; entry barriers.</li><li>Take the barrier ticket and enter the carpark.</li><li>Entering the car park on Level 4, keep RIGHT for Level 4 following the signs for Off Airport Parking Meet &amp; Greet and then park your vehicle in &#34;Row B&#34;.</li><li>Here you see one of our chauffeurs who is based near the ticket pay machine, who will have all your booking details and will be wearing a black jacket.</li></ul><h4>Terminal 2 Arrival Instructions</h4><ul><li>Once you have collected your luggage and are about to clear Customs, call the number given when your car was collected.</li><li>Make your way to the same place where you dropped the vehicle off; Level 4 short stay car park, and the vehicle will be parked in Row B next to the lift/pay machines</li></ul><h3>Terminal 3- sat-nav postcode: TW6 3QG</h3><h4>Departure Procedure For Heathrow Terminal 3</h4><ul><li>From the M25 exit at Junction 14, follow the signs for Terminals 1, 2 &amp; 3 all the way round following onto the Western Perimeter Road.</li><li>Go through the main tunnel to the Central Terminal Area for Terminals 1, 2 &amp; 3.</li><li>Exiting the tunnel, keep in the 1st lane and follow signs for Terminal 3 Short Stay Carpark (Carpark 3).</li><li>Take a ticket from the barrier and take your car to Level 4<span id=\"selectionBoundary_1535543167888_5864850928564185\" class=\"rangySelectionBoundary\">&#65279;</span>, then park your vehicle in ROW A</li><li>Here you see one of our chauffeurs who is based near the ticket pay machine, who will have all your booking details and will be wearing a black jacket.</li></ul><h4>Arrival Procedure For Heathrow Terminal 3</h4><ul><li>Once you have collected your luggage and are about to clear Customs, call the number given when your car was collected.</li><li>As you arrive in the arrivals, just before the exit door on the Right Hand Side, take the lift to Level 4 <span id=\"selectionBoundary_1535543160345_04987017557403517\" class=\"rangySelectionBoundary\">&#65279;</span>Short Stay Car Park, ROW A.</li></ul><h3>Terminal 4- sat-nav postcode: TW6 3XA</h3><h4>Departure Procedure For Heathrow Terminal 4</h4><ul><li>When Entering Heathrow Airport, following signs for Terminal 4, Departure Passenger Drop Off, as you go on the ramp towards Terminal 4, keep your vehicle in the left hand lane, and enter into Lane 3, which is the furthest lane away from the Terminal.</li><li>Continue down the lane and at the end of the lane on the left hand side you will see a sign on the floor marked Permit Holders park your vehicle there, here you will be greeted by one of our chauffeurs, who will have all your booking details and will be wearing a black jacket.</li></ul><h4>Arrival Procedure For Heathrow Terminal 4</h4><ul><li>Once you have collected your luggage and are about to clear Customs, call the number given when your car was collected.</li><li>As you exit the arrival Hall, cross the road directly towards the Short Stay Car park on the Ground floor.</li><li>As you walk outside the Arrival building to the short stay car park, walk across to the other side of the car park right by the pay machine which is located next the pedestrian crossing.</li><li>Your vehicle will be returned where the Black and White signs say Off Air Meet &amp; Greet at the furthest point of the car park away from the Terminal building on the Right hand side.</li></ul><h3>Terminal 5- sat-nav postcode: TW6 2GA</h3><h4>Departure Procedure For Heathrow Terminal 5</h4><ul><li>Follow the signs for &#34;Short stay Car Park&#34; found on the right hand side of the ramp as you enter the exit for Terminal 5 roundabout.</li><li>After following the signs for Short Stay Car Park, you will see a sign on the left-hand lane marked&#34;LEVEL 4&#34;.</li><li>Stay in this lane which will take you straight to a set of barriers.</li><li>Take the ticket from the barrier and make your way to Zones R-S. Park your vehicle in these designated areas which is sign posted in these zones as Off Airport Meet &amp; Greet</li><li>Here you see one of our chauffeurs who is based near the ticket pay machine, who will have all your booking details and will be wearing a black jacket.</li></ul><h4>Arrival Procedure For Heathrow Terminal 5</h4><ul><li>Once you have collected your luggage and are about to clear Customs, call the number given when your car was collected.</li><li>Make your way to the same place where you dropped the vehicle off; Level 4 short stay car park, and the vehicle will be parked in Row R OR S.</li></ul>",
+          "product_info": "<p><strong>Drop-off and pick-up at Short Stay. Stroll to check-in.</strong></p>\r\n<h2>Need to know:</h2>\r\n<p>Drop your car off at the Short Stay car park. A member of the team will meet you there and park your car while you walk to the terminal.</p>\r\n<p>When you get back walk back to where you were met on arrival and your car will be ready for collection.</p>\r\n<h2>Accessibility:</h2>\r\n<p>This service is suitable for customers with limited mobility, as a shuttle bus is not required.</p>\r\n<h2>Security:</h2>\r\n<p>The car park is secured by:</p>\r\n<ul>\r\n<li>Security barriers</li>\r\n<li>CCTV</li>\r\n<li>24-hour patrols</li>\r\n</ul>\r\n<h2>The small print:</h2>\r\n<p>Your car will be parked in a secured off-site compound while you're away.</p>\r\n<p>Drivefly is only available to take and return cars between 4am and 12 midnight.</p>\r\n<p>During bank holidays, there may be some changes in how the parking works. Drivefly will tell you about this if it affects you.</p>\r\n<p>All airport fees are included.</p>"
+        },
+        {
+          "product_id": "2",
+          "product_name": "Drivefly",
+          "product_code": "D",
+          "product_short_desc": "<p><span style=\"font-size: 14px;float: none;\">Drivefly Meet &amp; Greet offers a smooth and speedy parking experience for all passengers leaving from Birmingham<span id=\"selectionBoundary_1531825731541_7084902242199802\" class=\"rangySelectionBoundary\">&#65279;</span>.</span><br style=\"font-size: 14px;\"/><span style=\"font-size: 14px;float: none;\">The drive-in and drop-off service is perfect if you're short on time, dragging heavy bags or simply want to swerve the stress of airport transfers.</span",
+          "product_type": "MG",
+          "product_airport": "BHX",
+          "parking_id": "2",
+          "pc_id": "1",
+          "product_img": "https://api.drivefly.org/assets/15.png",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "<div>\r\n<h4>Telephone your driver: 0121 647 3683 or 07935 209 700</h4>\r\n<p>If you do NOT receive a call, please call us on the above number when you are 15 - 20 minutes away from the terminal so we can arrange a driver for you.</p>\r\n</div>\r\n<h4>Departure Procedures sat-nav postcode: B26 3QJ</h4>\r\n<ul>\r\n<li>On arriving at the airport, use the 'Drop &amp; Go' area immediately outside the terminal. Take the ticket from the barrier and immediately turn RIGHT. On the right had side perimeter of the Drop and Go area you will see a number of parking bays. Please park in between bays 9-12.</li>\r\n<li>Here you will be greeted by one of our chauffeurs at the prearranged meeting point, who will have all your booking details.</li>\r\n</ul>\r\n<h4>Return Procedure</h4>\r\n<ul>\r\n<li>Please call us on 0121 647 3683 / 07935 209 700 once you have collected all your luggage. In case of any delays please let us know.</li>\r\n<li>Our chauffer will deliver your vehicle to the agreed pick up point at the airport.</li>\r\n</ul>\r\n<p>*Depending on the product you have paid for; you may be required to pay for the airport exit fee on your return. Please ask our driver for clarification.</p>",
+          "product_info": "<h2>Accessibility:</h2>\r\n<p>This service is suitable for customers with limited mobility, as a shuttle bus is not required.</p>\r\n<h2>Security:</h2>\r\n<p>The car park is secured by:</p>\r\n<ul>\r\n<li>Security barriers</li>\r\n<li>CCTV</li>\r\n<li>24-hour patrols</li>\r\n</ul>\r\n<h2>The small print:</h2>\r\n<p>Your car will be parked in a secured off-site compound while you're away.</p>\r\n<p>Drivefly is only available to take and return cars between 4am and 12 midnight.</p>\r\n<p>During bank holidays, there may be some changes in how the parking works. Drivefly will tell you about this if it affects you.</p>\r\n<p>All airport fees are included.</p>"
+        },
+        {
+          "product_id": "3",
+          "product_name": "Drivefly",
+          "product_code": "D",
+          "product_short_desc": "<p>Drivefly Heathrow Park &amp; Ride offers a great value option. Our easy to find, well protected site close to M4 J4 offers frequent bus transfers which take under 15 minutes (in normal traffic conditions) and are included in the price.</p><p><br/></p><p>Note - Heathrow T4 transfers are via Heathrow Express.<span id=\"selectionBoundary_1532366225163_032642550354599065\" class=\"rangySelectionBoundary\">&#65279;</span></p>",
+          "product_type": "PR",
+          "product_airport": "LHR",
+          "parking_id": "5",
+          "pc_id": "1",
+          "product_img": "https://api.drivefly.org/assets/17.png",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "<p></p><p style=\"font-size: 14px;\">Exit M4 at Junction 4</p><p style=\"font-size: 14px;\">Use the left lane to take the A408 exit to Uxbridge</p><p style=\"font-size: 14px;\">Keep left and continue straight to Stockley Road/A408 for 0.4 miles</p><p style=\"font-size: 14px;\">At the roundabout, take the 1st exit and stay on Stockley Road/A408 for 1.1 miles</p><p style=\"font-size: 14px;\">At the roundabout take the 1st exit and stay on Stockley Road/A408 for 1 mile (Go through two roundabouts)</p><p style=\"font-size: 14px;\">At the lights, continue straight on to Trout Road for 0.1 miles and Drivefly Park &amp; Ride will be signposted on your left hand side.</p><p></p>",
+          "product_info": "<p><br/></p><p><span id=\"selectionBoundary_1529616651253_9811682476211592\" class=\"rangySelectionBoundary\">&#65279;</span></p><p><br/></p><h2 style=\"font-size: 30px;\">Security:</h2><p style=\"font-size: 14px;\">The car park is secured by:</p><ul style=\"font-size: 14px;\"><li>Security barriers</li><li>CCTV</li><li>24-hour patrols</li></ul><h2 style=\"font-size: 30px;\">The small print:</h2><p style=\"font-size: 14px;\">Your car will be parked in a secured off-site compound while you're away.</p><p style=\"font-size: 14px;\">Drivefly is only available to take and return cars between 4am and 12 midnight.</p><p style=\"font-size: 14px;\">During bank holidays, there may be some changes in how the parking works. Drivefly will tell you about this if it affects you.</p><p style=\"font-size: 14px;\">All airport fees are included.</p><!--EndFragment--><p><br/></p><p><br/></p>"
+        },
+        {
+          "product_id": "4",
+          "product_name": "Drivefly",
+          "product_code": "D",
+          "product_short_desc": "<p><span style=\"font-size: 14px;float: none;\">Drivefly Meet &amp; Greet offers a smooth and speedy parking experience for all passengers leaving from Luton<span id=\"selectionBoundary_1531825751073_6156644797176569\" class=\"rangySelectionBoundary\">&#65279;</span>.</span><br style=\"font-size: 14px;\"/><span style=\"font-size: 14px;float: none;\">The drive-in and drop-off service is perfect if you're short on time, dragging heavy bags or simply want to swerve the stress of airport transfers.</span></p>",
+          "product_type": "MG",
+          "product_airport": "LTN",
+          "parking_id": "3",
+          "pc_id": "1",
+          "product_img": "https://api.drivefly.org/assets/16.png",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "<div>\r\n<h4>Telephone your driver: 07955 055 777 or 07955 055 700</h4>\r\n<p>If you do NOT receive a call, please call us on the above number when you are 15 - 20 minutes away from the terminal so we can arrange a driver for you.</p>\r\n</div>\r\n<ul>\r\n<li>Upon arrival to Luton airport</li>\r\n<li>Please follow signs to the MULTI STORY CARPAK level 3, you will find allocated parking bays marked \"Meet and Greet\".<br />One of our representatives will be awaiting you wearing an orange hi-vis</li>\r\n</ul>",
+          "product_info": "<h2>Accessibility:</h2>\r\n<p>This service is suitable for customers with limited mobility, as a shuttle bus is not required.</p>\r\n<h2>Security:</h2>\r\n<p>The car park is secured by:</p>\r\n<ul>\r\n<li>Security barriers</li>\r\n<li>CCTV</li>\r\n<li>24-hour patrols</li>\r\n</ul>\r\n<h2>The small print:</h2>\r\n<p>Your car will be parked in a secured off-site compound while you're away.</p>\r\n<p>Drivefly is only available to take and return cars between 4am and 12 midnight.</p>\r\n<p>During bank holidays, there may be some changes in how the parking works. Drivefly will tell you about this if it affects you.</p>\r\n<p>All airport fees are included.</p>"
+        },
+        {
+          "product_id": "5",
+          "product_name": "I Can Park & Ride Flex",
+          "product_code": "F",
+          "product_short_desc": "Off airport parking <br>Free transfer to and from airport ",
+          "product_type": "PR",
+          "product_airport": "BHX",
+          "parking_id": "4",
+          "pc_id": "2",
+          "product_img": "",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": " I Can Park and Ride Limited, \r\nLand Opposite Rovex Business Park, Hay Hall Road, Birmingham. B11 2AU ",
+          "product_info": ""
+        }
+      ]
+    },
+    {
+      "site_id": "AGENT",
+      "site_name": "Consolidators",
+      "site_products": [
+        {
+          "product_id": "50",
+          "product_name": "Agent Drivefly",
+          "product_code": "S",
+          "product_short_desc": "",
+          "product_type": "MG",
+          "product_airport": "LHR",
+          "parking_id": "1",
+          "pc_id": null,
+          "product_img": "",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "",
+          "product_info": ""
+        },
+        {
+          "product_id": "51",
+          "product_name": "Agent Saver",
+          "product_code": "S",
+          "product_short_desc": "",
+          "product_type": "MG",
+          "product_airport": "LHR",
+          "parking_id": "1",
+          "pc_id": null,
+          "product_img": "",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "",
+          "product_info": ""
+        },
+        {
+          "product_id": "52",
+          "product_name": "Agent Royal",
+          "product_code": "S",
+          "product_short_desc": "",
+          "product_type": "MG",
+          "product_airport": "LHR",
+          "parking_id": "1",
+          "pc_id": null,
+          "product_img": "",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "",
+          "product_info": ""
+        },
+        {
+          "product_id": "53",
+          "product_name": "Agent other",
+          "product_code": "S",
+          "product_short_desc": "",
+          "product_type": "MG",
+          "product_airport": "LHR",
+          "parking_id": "1",
+          "pc_id": null,
+          "product_img": "",
+          "product_is_amendable": "1",
+          "product_is_refundable": "1",
+          "product_directions": "",
+          "product_info": ""
+        }
+      ]
+    }
+  ]
+}
